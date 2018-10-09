@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SerialDevicesWin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="aisPortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dtpPortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="msrPortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="KioskID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HILTON</Value>
+    </Setting>
+    <Setting Name="OracleConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DATA SOURCE=52.231.33.235;User Id=SYSTEM;Password=sys1234;</Value>
+    </Setting>
+    <Setting Name="OracleConnection2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DATA SOURCE=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=52.231.33.235)(PORT=1521))(CONNECT_DATA=(SID=xe)));User Id=SYSTEM;Password=sys1234;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
